@@ -1,2 +1,4 @@
 .vs/*
 Learning/Debug/*
+Learning/.idea/*
+Learning/cmake-build-debug/*

@@ -10,7 +10,6 @@ int mian() {
 	int t, kase = 0;
 	while (scanf("%d", &t) == 1 && t) {
 		printf("Scenario #%d\n",++kase);
-		//设置每个团队的成员
 		map<int, int> team;
 		for (int i = 0; i < t; i++) {
 			int n, x;
@@ -21,7 +20,6 @@ int mian() {
 			}
 		}
 
-		//模拟
 		queue<int> q, q2[maxt];
 		for (;;) {
 			int x;
