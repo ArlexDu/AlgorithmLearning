@@ -1,0 +1,11 @@
+10
+tiny
+2short4me
+very_long_file_name
+shorter
+size-1
+size2
+size3
+much_longer_name
+12345678.123
+mid_size_name
