@@ -3,5 +3,5 @@ project(Learning)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES TheLetterRounds.cpp)
+set(SOURCE_FILES UrbanElevations.cpp)
 add_executable(Learning ${SOURCE_FILES})
